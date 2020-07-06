@@ -1,4 +1,4 @@
-=== Site Specific Code ===
+=== Site Specific Custom Code ===
 Contributors: lemsmyth
 Donate link: https://lemsmyth.com/donate/
 Tags: custom code
@@ -28,7 +28,7 @@ Please check your PHP version or WordPress version.
 
 This plugin can be installed directly from your site.
 
-1. Download the plugin zip file from (https://lemsmyth.com/plugins/site-specific-code/).
+1. Download the plugin zip file from (https://lemsmyth.com/plugins/site-specific-custom-code/).
 2. Log in and navigate to "Plugins" → "Add New".
 3. Click button "Upload Plugin" next click on "Browse...".
 4. Locate the plugin file you previously downloaded in the list of search results and click "Install Now".

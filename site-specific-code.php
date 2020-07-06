@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Site Specific Code
- * Plugin URI: https://lemsmyth.com/plugins/site-specific-code/
- * Description: Add custom website specific code that adds functionality here.
+ * Plugin Name: ❤︎❤︎ lemsmyth Custom Code
+ * Plugin URI: https://lemsmyth.com/plugins/site-specific-custom-code/
+ * Description: Add custom site specific code here.
  * Version: 0.1.0
  * Author: lemsmyth
  * Author URI: https://lemsmyth.com/
@@ -10,7 +10,7 @@
  * Requires PHP: 5.6.20
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: ssc
+ * Text Domain: sscc
  * Domain Path: /languages
  */
 if ( !defined( 'ABSPATH' ) ) exit;
